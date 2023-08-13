@@ -1,0 +1,9 @@
+/* Background styles for warm and cool temperatures */
+.bg-warm {
+    background-color: #FFD700; /* Yellow */
+  }
+  
+  .bg-cool {
+    background-color: #87CEEB; /* Sky Blue */
+  }
+  
